@@ -1,0 +1,7 @@
+[
+    {
+        "name": "Resell'sMonitor BOT",
+        "token": "process.env.TOKEN",
+        "adminIDs": "655420978062426132"
+    }
+]
